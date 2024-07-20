@@ -3,5 +3,9 @@ class vinay
     public static void main (String[]args)
     {
         System.out.println("Vinay 1")
+        System.out.println("Srinath 2")
+        System.out.println("Srinath 3")
+        
+        
     }
 }
